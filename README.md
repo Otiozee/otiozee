@@ -1,4 +1,4 @@
-<p align="center"> <b>⚡ Zed | Engineering Systems That Don’t Break</b><br> </p>
+<p align="center"> <b>Welcome! I'm Zed | I Build Engineering Systems That Don’t Break</b><br> </p>
 <p align="center"> <b>Engineer • Systems Builder • Problem Solver</b><br> <i>I turn complex real-world problems into clean, reliable software.</i> </p>
 
 
