@@ -1,4 +1,4 @@
-⚡ Zed | Engineering Systems That Don’t Break
+                                                  ⚡ Zed | Engineering Systems That Don’t Break
 <p align="center"> <b>Engineer • Systems Builder • Problem Solver</b><br> <i>I turn complex real-world problems into clean, reliable software.</i> </p>
 🚀 About Me
 
@@ -23,11 +23,11 @@ I:
 Build systems that still work when things get messy
 
 🧠 Languages & Tools
-<p align="center"> <img src="https://skillicons.dev/icons?i=go,c,python,shell,bash,git,linux,vscode" /> </p>
-Primary:     Go
-Secondary:   C, Python, Shell
-Environment: Linux, CLI
-Tools:       Git, VS Code, Terminal
+<p align="center"> <img src="https://skillicons.dev/icons?i=go,c,python,shell,bash,git,linux,vscode,terminal" /> </p>
+- Primary:     Go
+- Secondary:   C, Python, Shell
+- Environment: Linux, CLI
+- Tools:       Git, VS Code, Terminal
 
 🏗️ Featured Work
 
@@ -47,12 +47,12 @@ Punctuation & quote normalization
 <p> <img src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white"/> <img src="https://img.shields.io/badge/System%20Design-black?style=for-the-badge"/> <img src="https://img.shields.io/badge/CLI%20Tools-grey?style=for-the-badge"/> <img src="https://img.shields.io/badge/Engineering-blue?style=for-the-badge"/> </p>
 
 📊 GitHub Stats
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=otiozee&show_icons=true&theme=tokyonight"/> <img src="https://streak-stats.demolab.com?user=YOUR_USERNAME&theme=tokyonight"/> </p>
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=otiozee&show_icons=true&theme=tokyonight"/> <img src="https://streak-stats.demolab.com?user=otiozee&theme=tokyonight"/> </p>
 
 🧠 Engineering Mindset
-If it’s confusing → simplify it  
-If it breaks → redesign it  
-If it scales poorly → restructure it
+- If it’s confusing → simplify it  
+- If it breaks → redesign it  
+- If it scales poorly → restructure it
 
 🎯 Current Focus
 
