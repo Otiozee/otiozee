@@ -1,6 +1,8 @@
-                                                  ⚡ Zed | Engineering Systems That Don’t Break
+<p align="center"> <b>⚡ Zed | Engineering Systems That Don’t Break</i> </p>
 <p align="center"> <b>Engineer • Systems Builder • Problem Solver</b><br> <i>I turn complex real-world problems into clean, reliable software.</i> </p>
-🚀 About Me
+
+
+## 🚀 About Me
 
 I build systems where correctness, performance, and structure matter.
 
@@ -12,7 +14,7 @@ I build systems where correctness, performance, and structure matter.
 
 ⚡ Go-first mindset: simple, fast, efficient
 
-🔥 What Makes Me Different
+### 🔥 What Makes Me Different
 
 Most developers:
 
@@ -22,55 +24,55 @@ I:
 
 Build systems that still work when things get messy
 
-🧠 Languages & Tools
+## 🧠 Languages & Tools
 <p align="center"> <img src="https://skillicons.dev/icons?i=go,c,python,shell,bash,git,linux,vscode,terminal" /> </p>
 - Primary:     Go
 - Secondary:   C, Python, Shell
 - Environment: Linux, CLI
 - Tools:       Git, VS Code, Terminal
 
-🏗️ Featured Work
+## 🏗️ Featured Work
 
-🧱 Civil Engineering System
+### 🧱 Civil Engineering System
 RCC design (beams, slabs, columns, footings)
 Eurocode & BS8110 integration
 Material estimation engine
 👉 Built for real-world construction
 
-🔤 Go Text Processing Engine
+### 🔤 Go Text Processing Engine
 Tokenization → Processing → Rebuild
 (hex), (bin,n) modifiers
 Punctuation & quote normalization
 👉 Designed like a mini compiler
 
-⚙️ Tech Stack
+### ⚙️ Tech Stack
 <p> <img src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white"/> <img src="https://img.shields.io/badge/System%20Design-black?style=for-the-badge"/> <img src="https://img.shields.io/badge/CLI%20Tools-grey?style=for-the-badge"/> <img src="https://img.shields.io/badge/Engineering-blue?style=for-the-badge"/> </p>
 
-📊 GitHub Stats
+### 📊 GitHub Stats
 <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=otiozee&show_icons=true&theme=tokyonight"/> <img src="https://streak-stats.demolab.com?user=otiozee&theme=tokyonight"/> </p>
 
-🧠 Engineering Mindset
+### 🧠 Engineering Mindset
 - If it’s confusing → simplify it  
 - If it breaks → redesign it  
 - If it scales poorly → restructure it
 
-🎯 Current Focus
+### 🎯 Current Focus
 
-Production-grade engineering tools
+- Production-grade engineering tools
 
-Go → full-scale systems (CLI → GUI/Web)
+- Go → full-scale systems (CLI → GUI/Web)
 
-Civil + Software engineering integration
+- Civil + Software engineering integration
 
-🤝 Let’s Collaborate
+### 🤝 Let’s Collaborate
 Open to:
 
-System-heavy builds
+- System-heavy builds
 
-Engineering tools
+- Engineering tools
 
-Performance-critical software
+- Performance-critical software
 
-⚡ Final Note
-Most code runs.
-Mine holds up.
+### ⚡ Final Note
+- Most code runs.
+- Mine holds up.
