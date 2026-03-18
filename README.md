@@ -35,16 +35,16 @@ Build systems that still work when things get messy
 ## 🏗️ Featured Work
 
 ### 🧱 Civil Engineering System
-RCC design (beams, slabs, columns, footings)
-Eurocode & BS8110 integration
-Material estimation engine
-👉 Built for real-world construction
+- RCC design (beams, slabs, columns, footings)
+- Eurocode & BS8110 integration
+- Material estimation engine
+- 👉 Built for real-world construction
 
 ### 🔤 Go Text Processing Engine
-Tokenization → Processing → Rebuild
-(hex), (bin,n) modifiers
-Punctuation & quote normalization
-👉 Designed like a mini compiler
+- Tokenization → Processing → Rebuild
+- (hex), (bin,n) modifiers
+- Punctuation & quote normalization
+- 👉 Designed like a mini compiler
 
 ### ⚙️ Tech Stack
 <p> <img src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white"/> <img src="https://img.shields.io/badge/System%20Design-black?style=for-the-badge"/> <img src="https://img.shields.io/badge/CLI%20Tools-grey?style=for-the-badge"/> <img src="https://img.shields.io/badge/Engineering-blue?style=for-the-badge"/> </p>
