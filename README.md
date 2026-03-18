@@ -25,7 +25,8 @@ I:
 Build systems that still work when things get messy
 
 ## 🧠 Languages & Tools
-<p align="center"> <img src="https://skillicons.dev/icons?i=go,c,python,shell,bash,git,linux,vscode,terminal" /> </p>
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=otiozee&layout=compact&theme=tokyonight)
+
 - Primary:     Go
 - Secondary:   C, Python, Shell
 - Environment: Linux, CLI
