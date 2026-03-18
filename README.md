@@ -1,4 +1,4 @@
-<p align="center"> <b>⚡ Zed | Engineering Systems That Don’t Break</i> </p>
+<p align="center"> <b>⚡ Zed | Engineering Systems That Don’t Break</b><br> </p>
 <p align="center"> <b>Engineer • Systems Builder • Problem Solver</b><br> <i>I turn complex real-world problems into clean, reliable software.</i> </p>
 
 
@@ -25,7 +25,7 @@ I:
 Build systems that still work when things get messy
 
 ## 🧠 Languages & Tools
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=otiozee&layout=compact&theme=tokyonight&langs_count=8)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=otiozee&layout=compact&theme=tokyonight&langs_count=10)
 
 - Primary:     Go
 - Secondary:   C, Python, Shell
