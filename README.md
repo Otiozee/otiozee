@@ -25,7 +25,7 @@ I:
 Build systems that still work when things get messy
 
 ## 🧠 Languages & Tools
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=otiozee&layout=compact&theme=tokyonight)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=otiozee&layout=compact&theme=tokyonight&langs_count=8)
 
 - Primary:     Go
 - Secondary:   C, Python, Shell
