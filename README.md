@@ -50,7 +50,14 @@ Build systems that still work when things get messy
 <p> <img src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white"/> <img src="https://img.shields.io/badge/System%20Design-black?style=for-the-badge"/> <img src="https://img.shields.io/badge/CLI%20Tools-grey?style=for-the-badge"/> <img src="https://img.shields.io/badge/Engineering-blue?style=for-the-badge"/> </p>
 
 ### 📊 GitHub Stats
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=otiozee&show_icons=true&theme=tokyonight"/> <img src="https://streak-stats.demolab.com?user=otiozee&theme=tokyonight"/> </p>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=otiozee&show_icons=true&theme=tokyonight"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=otiozee&theme=tokyonight"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=otiozee&theme=tokyo-night"/>
+</p>
 
 ### 🧠 Engineering Mindset
 - If it’s confusing → simplify it  
