@@ -50,15 +50,22 @@ Build systems that still work when things get messy
 <p> <img src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white"/> <img src="https://img.shields.io/badge/System%20Design-black?style=for-the-badge"/> <img src="https://img.shields.io/badge/CLI%20Tools-grey?style=for-the-badge"/> <img src="https://img.shields.io/badge/Engineering-blue?style=for-the-badge"/> </p>
 
 ### 📊 GitHub Stats
-<img src="https://github-readme-stats-one-rho-90.vercel.app/api?username=otiozee&show_icons=true&theme=tokyonight&hide_border=true" height="165"/>
 
 <p align="center">
- 
+  <img src="https://github-readme-stats-one-rho-90.vercel.app/api?username=otiozee&show_icons=true&theme=tokyonight&hide_border=true" height="165"/>
   <img src="https://streak-stats.demolab.com?user=otiozee&theme=tokyonight&hide_border=true" height="165"/>
 </p>
 
 <p align="center">
+  <img src="https://github-readme-stats-one-rho-90.vercel.app/api/top-langs/?username=otiozee&layout=compact&theme=tokyonight&hide_border=true"/>
+</p>
+
+<p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=otiozee&theme=tokyo-night&hide_border=true"/>
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Primary%20Language-Go-00ADD8?style=for-the-badge&logo=go&logoColor=white"/>
 </p>
 
 ### 🧠 Engineering Mindset
