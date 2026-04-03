@@ -24,7 +24,7 @@ I:
 
 Build systems that still work when things get messy
 
-
+## 🧠 Languages & Tools
 - Primary:     Go
 - Secondary:   C, Python, Shell
 - Environment: Linux, CLI
@@ -34,8 +34,6 @@ Build systems that still work when things get messy
 
 ### 🧱 Civil Engineering System
 - RCC design (beams, slabs, columns, footings)
-## 🧠 Languages & Tools
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=otiozee&layout=compact&theme=tokyonight&langs_count=10)
 - Eurocode & BS8110 integration
 - Material estimation engine
 - 👉 Built for real-world construction
