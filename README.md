@@ -28,11 +28,11 @@ Build systems that still work when things get messy
 <p align="center">
   <img src="https://img.shields.io/badge/Primary%20Language-Go-00ADD8?style=for-the-badge&logo=go&logoColor=white"/>
 </p>
-```txt
+
+
 - Secondary:   C, Python, Shell
 - Environment: Linux, CLI
 - Tools:       Git, VS Code, Terminal
-```
 
 ## 🏗️ Featured Work
 
