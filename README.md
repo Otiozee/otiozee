@@ -25,7 +25,9 @@ I:
 Build systems that still work when things get messy
 
 ## 🧠 Languages & Tools
-- Primary:     Go
+<p align="center">
+  <img src="https://img.shields.io/badge/Primary%20Language-Go-00ADD8?style=for-the-badge&logo=go&logoColor=white"/>
+</p>
 - Secondary:   C, Python, Shell
 - Environment: Linux, CLI
 - Tools:       Git, VS Code, Terminal
@@ -60,10 +62,6 @@ Build systems that still work when things get messy
 
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=otiozee&theme=tokyo-night&hide_border=true"/>
-</p>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/Primary%20Language-Go-00ADD8?style=for-the-badge&logo=go&logoColor=white"/>
 </p>
 
 ### 🧠 Engineering Mindset
