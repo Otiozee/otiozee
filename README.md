@@ -85,7 +85,7 @@ Build systems that still work when things get messy
 
 - Civil + Software engineering integration
 
-### 🤝 Let’s Collaborate [📧 Email Me](mailto:zedbet9@gmail.com)
+### 🤝 Let’s Collaborate
 Open to:
 
 - System-heavy builds
@@ -93,6 +93,8 @@ Open to:
 - Engineering tools
 
 - Performance-critical software
+
+[📧 Email Me](mailto:zedbet9@gmail.com)
 
 ### ⚡ Final Note
 - Most code runs.
