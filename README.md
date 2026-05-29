@@ -25,7 +25,7 @@ I:
 Build systems that still work when things get messy
 
 ## 🧠 Languages & Tools
-<p align="center">
+<p align="left">
   <img src="https://img.shields.io/badge/Primary%20Language-Go-00ADD8?style=for-the-badge&logo=go&logoColor=white"/>
 </p>
 <p align="left">
@@ -34,6 +34,7 @@ Build systems that still work when things get messy
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
   <img src="https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white"/>
 </p>
+
 - Environment: Linux, CLI
 - Tools:       Git, VS Code, Terminal
 
