@@ -25,12 +25,15 @@ I:
 Build systems that still work when things get messy
 
 ## 🧠 Languages & Tools
-<p align="center">
+<p align="left">
   <img src="https://img.shields.io/badge/Primary%20Language-Go-00ADD8?style=for-the-badge&logo=go&logoColor=white"/>
 </p>
-
-
-- Secondary:   C, Python, Shell
+<p align="left">
+  <img src="https://img.shields.io/badge/Secondary%20Language-Shell-89E051?style=for-the-badge&logo=gnu-bash&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Secondary%20Language-C-A8B9CC?style=for-the-badge&logo=c&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Secondary%20Language-Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Secondary%20Language-Rust-000000?style=for-the-badge&logo=rust&logoColor=white"/>
+</p>
 - Environment: Linux, CLI
 - Tools:       Git, VS Code, Terminal
 
