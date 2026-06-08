@@ -2,19 +2,19 @@
 <p align="center"> <b>Engineer • Systems Builder • Problem Solver</b><br> <i>I turn complex real-world problems into clean, reliable software.</i> </p>
 
 
-## 🚀 About Me
+## About Me
 
 I build systems where correctness, performance, and structure matter.
 
-⚙️ Engineering-focused software (not just apps)
+** Engineering-focused software (not just apps)
 
-🧠 Strong focus on logic, parsing, and system design
+** Strong focus on logic, parsing, and system design
 
-🧩 Modular architectures that scale without chaos
+** Modular architectures that scale without chaos
 
-⚡ Go-first mindset: simple, fast, efficient
+** Go-first mindset: simple, fast, efficient
 
-### 🔥 What Makes Me Different
+### What Makes Me Different
 
 Most developers:
 
@@ -24,12 +24,12 @@ I:
 
 Build systems that still work when things get messy
 
-## 🧠 Languages & Tools
+## Languages & Tools
 <p align="left">
   <img src="https://img.shields.io/badge/Primary%20Language-Go-00ADD8?style=for-the-badge&logo=go&logoColor=white"/>
 </p>
 <p align="left">
-  <img src="https://img.shields.io/badge/Secondary%20Language-Shell-89E051?style=for-the-badge&logo=gnu-bash&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Secondary%20Languages-Shell-89E051?style=for-the-badge&logo=gnu-bash&logoColor=white"/>
   <img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=white"/>
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
   <img src="https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white"/>
@@ -38,30 +38,30 @@ Build systems that still work when things get messy
 - Environment: Linux, CLI
 - Tools:       Git, VS Code, Terminal
 
-## 🏗️ Featured Work
+## Featured Work
 
-### 🧱 Civil Engineering System
+### Civil Engineering System
 - RCC design (beams, slabs, columns, footings)
 - Eurocode & BS8110 integration
 - Material estimation engine
 - 👉 Built for real-world construction
 
-### [🔤 Go Text Processing Engine](https://github.com/Otiozee/go-reloaded)
+### [Go Text Processing Engine](https://github.com/Otiozee/go-reloaded)
 - Tokenization → Processing → Rebuild
 - (hex), (bin,n) modifiers
 - Punctuation & quote normalization
 - 👉 Designed like a mini compiler
 
-### [🎨 Go String To ASCII ART Engine](https://github.com/otiozee/ascii-arts)
+### [Go String To ASCII ART Engine](https://github.com/otiozee/ascii-arts)
 - Input Parsing → Banner Mapping → Row-by-Row Rendering
 - Multi-banner support (standard, shadow, thinkertoy)
 - Newline splitting & ASCII validation
 - 👉 Designed like a text rendering pipeline / mini terminal engine
 
-### ⚙️ Tech Stack
+### Tech Stack
 <p> <img src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white"/> <img src="https://img.shields.io/badge/System%20Design-black?style=for-the-badge"/> <img src="https://img.shields.io/badge/CLI%20Tools-grey?style=for-the-badge"/> <img src="https://img.shields.io/badge/Engineering-blue?style=for-the-badge"/> </p>
 
-### 📊 GitHub Stats
+### GitHub Stats
 
 <p align="center">
   <img src="https://github-readme-stats-one-rho-90.vercel.app/api?username=otiozee&show_icons=true&theme=tokyonight&hide_border=true" height="165"/>
@@ -76,12 +76,12 @@ Build systems that still work when things get messy
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=otiozee&theme=tokyo-night&hide_border=true"/>
 </p>
 
-### 🧠 Engineering Mindset
+### Engineering Mindset
 - If it’s confusing → simplify it  
 - If it breaks → redesign it  
 - If it scales poorly → restructure it
 
-### 🎯 Current Focus
+### Current Focus
 
 - Production-grade engineering tools
 
@@ -89,7 +89,7 @@ Build systems that still work when things get messy
 
 - Civil + Software engineering integration
 
-### 🤝 Let’s Collaborate
+### Let’s Collaborate
 Open to:
 
 - System-heavy builds
@@ -100,6 +100,6 @@ Open to:
 
 [📧 Email Me](mailto:zedbet9@gmail.com)
 
-### ⚡ Final Note
+### Final Note
 - Most code runs.
 - Mine holds up.
