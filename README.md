@@ -52,11 +52,12 @@ Build systems that still work when things get messy
 - Punctuation & quote normalization
 - 👉 Designed like a mini compiler
 
-### [Go String To ASCII ART Engine](https://github.com/otiozee/ascii-arts)
-- Input Parsing → Banner Mapping → Row-by-Row Rendering
-- Multi-banner support (standard, shadow, thinkertoy)
-- Newline splitting & ASCII validation
-- 👉 Designed like a text rendering pipeline / mini terminal engine
+### [Go ASCII Art Engine](https://github.com/Otiozee/askey)
+- Modular ASCII text rendering engine written in Go
+- Processing pipeline: Validation → Banner Loading → Text Parsing → ASCII Generation → Alignment → Rendering
+- Supports multiple FIGlet-style banners, ANSI colors, alignment modes, reverse decoding, and file output
+- Clean package architecture for reuse as both a CLI application and Go library
+- 👉 Built with extensibility, testing, and maintainability in mind
 
 ### Tech Stack
 <p> <img src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white"/> <img src="https://img.shields.io/badge/System%20Design-black?style=for-the-badge"/> <img src="https://img.shields.io/badge/CLI%20Tools-grey?style=for-the-badge"/> <img src="https://img.shields.io/badge/Engineering-blue?style=for-the-badge"/> </p>
