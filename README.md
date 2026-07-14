@@ -101,11 +101,19 @@ Environment: **Linux** • **CLI** • **Git** • **VS Code**
 
 <br/>
 
-<img height="165px" src="https://github-readme-stats-one-rho-90.vercel.app/api?username=otiozee&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
+<a href="https://github.com/otiozee">
+  <img height="165px" src="https://github-readme-stats.vercel.app/api?username=Otiozee&show_icons=true&hide_border=true&bg_color=000000&title_color=58a6ff&icon_color=58a6ff&text_color=c9d1d9" />
+</a>
 
-<img height="165px" src="https://streak-stats.demolab.com?user=otiozee&theme=tokyonight&hide_border=true" />
+<a href="https://github.com/otiozee">
+  <img height="165px" src="https://github-readme-streak-stats.herokuapp.com/?user=Otiozee&hide_border=true&background=000000&ring=58a6ff&fire=58a6ff&currStreakLabel=58a6ff" />
+</a>
 
-<img src="https://github-readme-stats-one-rho-90.vercel.app/api/top-langs/?username=otiozee&layout=compact&theme=tokyonight&hide_border=true" />
+<br/>
+
+<a href="https://github.com/otiozee">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Otiozee&layout=compact&hide_border=true&bg_color=000000&title_color=58a6ff&text_color=c9d1d9" />
+</a>
 
 <br/>
 
