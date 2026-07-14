@@ -97,34 +97,6 @@ Environment: **Linux** • **CLI** • **Git** • **VS Code**
 
 <div align="center">
 
-## GitHub Stats
-
-<br/>
-
-<a href="https://github.com/otiozee">
-  <img height="165px" src="https://github-readme-stats.vercel.app/api?username=Otiozee&show_icons=true&hide_border=true&bg_color=000000&title_color=58a6ff&icon_color=58a6ff&text_color=c9d1d9" />
-</a>
-
-<a href="https://github.com/otiozee">
-  <img height="165px" src="https://github-readme-streak-stats.herokuapp.com/?user=Otiozee&hide_border=true&background=000000&ring=58a6ff&fire=58a6ff&currStreakLabel=58a6ff" />
-</a>
-
-<br/>
-
-<a href="https://github.com/otiozee">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Otiozee&layout=compact&hide_border=true&bg_color=000000&title_color=58a6ff&text_color=c9d1d9" />
-</a>
-
-<br/>
-
-</div>
-
----
-
-<br/>
-
-<div align="center">
-
 ## Engineering Philosophy
 
 ```
