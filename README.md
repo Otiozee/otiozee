@@ -143,7 +143,7 @@ Most code runs. Mine holds up.
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" height="36"/>
 </a>
 <a href="https://zedick-profile.netlify.app" target="_blank">
-  <img src="https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white" height="36"/>
+  <img src="https://img.shields.io/badge/Profile-00C7B7?style=for-the-badge&logo=netlify&logoColor=white" height="36"/>
 </a>
 
 <br/>
