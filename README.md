@@ -62,14 +62,14 @@ I build systems where correctness, performance, and structure matter. Not just c
         <br/><br/>
       </div>
     </td>
-    <td width="33%" valign="top">
+    <td width="35%" valign="top">
       <div align="center">
         <h4><a href="https://github.com/Otiozee/L2E_01Edu/tree/main/Imperative/go-reloaded">Text Processing Engine</a></h4>
         <sub>Multi-stage text transformation pipeline with tokenization, custom modifiers (hex, binary), and punctuation normalization. Designed with compiler-like architecture.</sub>
         <br/><br/>
       </div>
     </td>
-    <td width="33%" valign="top">
+    <td width="35%" valign="top">
       <div align="center">
         <h4><a href="https://github.com/Otiozee/L2E_01Edu/tree/main/Imperative/askey">ASCII Art Engine</a></h4>
         <sub>Modular ASCII rendering system with FIGlet banner support, ANSI colors, and alignment modes. Built as both CLI application and reusable Go library.</sub>
